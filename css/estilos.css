@@ -56,6 +56,17 @@
     color: #fff;
 }
 
+#contenido-modal h2 {
+    border-bottom: 2px dotted;
+    border-bottom-color: #ffd00f;
+}
+
+#contenido-modal strong {
+    font-size: 16px;
+    float: right;
+    margin-top: 0.7em;
+}
+
 @font-face {
     font-family: 'food';
     src: url('../food/HighSociety.ttf');
