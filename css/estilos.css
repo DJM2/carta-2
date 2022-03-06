@@ -1,0 +1,62 @@
+.full {
+    width: 100%;
+}
+
+.ochenta {
+    width: 80%;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    margin-left: -4em;
+    float: left;
+}
+
+.ochenta h2 {
+    font-family: 'food';
+    color: #fff;
+    padding: 10px 0px 10px 0px;
+    float: right;
+    margin-right: 2em;
+    text-decoration: underline;
+    text-decoration-color: #ffd00f;
+    text-transform: uppercase;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.border-yellow {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #ffd00f;
+    width: 100%;
+    height: 60px;
+}
+
+.subrayado {
+    width: 30%;
+    height: 5px;
+    background: grey;
+    float: right;
+}
+
+.twenty {
+    width: 20%;
+    float: right;
+    margin-right: 1em;
+}
+
+.twenty img {
+    width: 4em;
+    margin-top: 2em;
+}
+
+#contenido-modal {
+    background: #000;
+    color: #fff;
+}
+
+@font-face {
+    font-family: 'food';
+    src: url('../food/HighSociety.ttf');
+}
